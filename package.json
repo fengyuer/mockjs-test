@@ -1,0 +1,22 @@
+{
+  "name": "mockjs-express",
+  "version": "1.0.0",
+  "description": "mockjs and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyuer/mockjs-test.git"
+  },
+  "author": "Fiona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyuer/mockjs-test/issues"
+  },
+  "homepage": "https://github.com/fengyuer/mockjs-test#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
