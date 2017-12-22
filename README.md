@@ -27,11 +27,11 @@
     create : mockjs-test/public/stylesheets
     create : mockjs-test/public/stylesheets/style.css
 
-   install dependencies:
-     > cd mockjs-test && npm install
+    install dependencies:
+        > cd mockjs-test && npm install
 
-   run the app:
-     > SET DEBUG=mockjs-test:* & npm start
+    run the app:
+        > SET DEBUG=mockjs-test:* & npm start
 
 
 
