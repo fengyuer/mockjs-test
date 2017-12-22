@@ -9,23 +9,23 @@
 
     destination is not empty, continue? [y/N] y
 
-   create : mockjs-test
-   create : mockjs-test/package.json
-   create : mockjs-test/app.js
-   create : mockjs-test/public
-   create : mockjs-test/routes
-   create : mockjs-test/routes/index.js
-   create : mockjs-test/routes/users.js
-   create : mockjs-test/views
-   create : mockjs-test/views/index.jade
-   create : mockjs-test/views/layout.jade
-   create : mockjs-test/views/error.jade
-   create : mockjs-test/bin
-   create : mockjs-test/bin/www
-   create : mockjs-test/public/javascripts
-   create : mockjs-test/public/images
-   create : mockjs-test/public/stylesheets
-   create : mockjs-test/public/stylesheets/style.css
+    create : mockjs-test
+    create : mockjs-test/package.json
+    create : mockjs-test/app.js
+    create : mockjs-test/public
+    create : mockjs-test/routes
+    create : mockjs-test/routes/index.js
+    create : mockjs-test/routes/users.js
+    create : mockjs-test/views
+    create : mockjs-test/views/index.jade
+    create : mockjs-test/views/layout.jade
+    create : mockjs-test/views/error.jade
+    create : mockjs-test/bin
+    create : mockjs-test/bin/www
+    create : mockjs-test/public/javascripts
+    create : mockjs-test/public/images
+    create : mockjs-test/public/stylesheets
+    create : mockjs-test/public/stylesheets/style.css
 
    install dependencies:
      > cd mockjs-test && npm install
